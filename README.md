@@ -4,4 +4,3 @@ asdfghjkjhgfdssdfgh<br>
 asdfghjhgfdssdfgh<br>
 asdfghjhgfdsdfg
 sdfghhgfdsdfg<br><br>
-![logo ISBAL](logoisbal.png)
