@@ -1,6 +1,5 @@
-# {1234567890}-PWD-{1234567890}-2728G
-asdfghjkasdfghjjhgfdssdfghjkjhgfd<br>
-asdfghjkjhgfdssdfgh<br>
-asdfghjhgfdssdfgh<br>
-asdfghjhgfdsdfg
-sdfghhgfdsdfg<br><br>
+2622500015-PWD-SI1A-2627G
+Repository Latihan Pertemuan-1 sampai dengan Pertemuan-16<br>
+Matakuliah Pemrograman Web Dasar<br>
+Kelompok SI1A
+Tahun Ajaran 2026/2027 Semester Gasal<br><br>
